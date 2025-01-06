@@ -3,6 +3,14 @@
 A dynamic Power BI dashboard to analyze and visualize sales data across multiple dimensions, providing actionable insights into sales performance, customer behavior, and product demand. This dashboard uses CSV data sources, advanced data modeling, and DAX functions to deliver key performance indicators (KPIs) and detailed analyses.
 
 ---
+![image](https://github.com/user-attachments/assets/9a9b04c5-b27b-4a2e-9c2d-0d6dcb6b8370)
+
+
+
+
+
+
+
 
 ## Features
 
