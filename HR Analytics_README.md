@@ -1,6 +1,14 @@
 # HR Analytics Dashboard
 
 A comprehensive Power BI dashboard designed to provide insights into key HR metrics, including attrition rates, department-wise male-to-female ratios, and yearly hiring trends. This dashboard uses CSV data sources, advanced data modeling, and DAX functions to deliver actionable insights.
+![image](https://github.com/user-attachments/assets/a3c00601-80d1-4df6-9df7-0182054a9e00)
+
+
+
+
+
+
+
 
 ---
 
